@@ -179,18 +179,6 @@
             "paused_icon": "\uf04c ",
             "playing_icon": "\uf04b "
           }
-        },
-        {
-          "type": "spotify",
-          "style": "powerline",
-          "powerline_symbol": "",
-          "foreground": "#ffffff",
-          "background": "#1BD760",
-          "properties": {
-            "playing_icon": "\uE602 ",
-            "paused_icon": "\uF8E3 ",
-            "stopped_icon": "\uF04D "
-          }
         }
       ]
     }

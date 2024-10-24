@@ -1,6 +1,6 @@
 Import-Module -Name Terminal-Icons
 
-oh-my-posh --init --shell pwsh --config C:\projects\shell\sergeyz.omp.json | Invoke-Expression
+oh-my-posh --init --shell pwsh --config D:\projects\shell\sergeyz.omp.json | Invoke-Expression
 
 function ??
 {
